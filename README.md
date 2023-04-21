@@ -2,16 +2,16 @@
 ### Problem Overview:
 In this project, the system will provide operations related to students record system like add a new
 student record, update, search....  
-Where:
+### Where:  
 • Year/semester represent the academic year and the current semester. For example: 2021-2022
 represent the academic year, 1 represents first semester (2 for second semester, 3 for summer
-semester)
+semester)  
 • Courses with grades: lists of course taken in the academic year/semester.
 Each student must have separated file and the name of the file will be the student ID.
-Scenario:
-• First the user must login to the system. Here there are two types of users: student and admin
-• Then, the program will print the available list of options which is based on the user type
-• The option available includes the following:
+Scenario:  
+• First the user must login to the system. Here there are two types of users: student and admin  
+• Then, the program will print the available list of options which is based on the user type  
+• The option available includes the following:  
 o Admin options:
 1. Add a new record file: here the program must ask to enter student ID. The
 program must raise an error if the ID is not unique.
